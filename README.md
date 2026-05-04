@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## **🎮Gaming tebal tebal<br>💻Coding tipis tipis**
 <p align="center">
-  <img src="https://c.tenor.com/5AmmfS9tSBwAAAAC/tenor.gif](https://media.tenor.com/uabhv4CmS2QAAAAi/cute-anime-pink-anime.gif" width="100%"/>
+  <img src="https://media.tenor.com/uabhv4CmS2QAAAAi/cute-anime-pink-anime.gif" width="75%"/>
 </p>
 
 
